@@ -1,3 +1,5 @@
+package main;
+
 public class EjemploISP{}
 
 //Violando el principio de ISP
